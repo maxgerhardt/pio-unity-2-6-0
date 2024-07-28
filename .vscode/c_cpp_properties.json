@@ -1,0 +1,39 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/Max/temp/unity_26/include",
+                "c:/Users/Max/temp/unity_26/src",
+                "c:/Users/Max/temp/unity_26/.pio/libdeps/native/Unity/src",
+                "c:/Users/Max/temp/unity_26/.pio/libdeps/native/Unity@2.5.2/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/Max/temp/unity_26/include",
+                    "c:/Users/Max/temp/unity_26/src",
+                    "c:/Users/Max/temp/unity_26/.pio/libdeps/native/Unity/src",
+                    "c:/Users/Max/temp/unity_26/.pio/libdeps/native/Unity@2.5.2/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60115",
+                "UNITY_INCLUDE_CONFIG_H",
+                ""
+            ],
+            "compilerPath": "C:/Users/Max/Downloads/mingw64/bin/gcc.exe",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
