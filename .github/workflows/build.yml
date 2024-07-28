@@ -23,5 +23,8 @@ jobs:
       - name: Build PlatformIO Project
         run: pio run
 
-      - name: Test PlatformIO Project
+      - name: Test PlatformIO Project (native)
         run: pio test -vvv -e native
+
+      - name: Test PlatformIO Project (uno, just build)
+        run: pio test -vvv -e uno --without-uploading --without-testing
